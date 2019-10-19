@@ -26,7 +26,10 @@
         "prettier": "^1.17.1",
         "types-publisher": "github:Microsoft/types-publisher#production"
     },
-    "dependencies": {},
+    "dependencies": {
+        "react": "^16.10.2",
+        "react-clock": "^2.4.0"
+    },
     "husky": {
         "hooks": {
             "_comment": "This will remove husky from when we started migrating to use prettier",
